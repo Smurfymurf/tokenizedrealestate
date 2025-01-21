@@ -19,7 +19,7 @@ export default function Investment() {
           Join thousands of investors already benefiting from tokenized real estate through Landshare's innovative platform.
         </p>
         <div className="flex flex-col sm:flex-row justify-center gap-6">
-          <Button variant="primary" href="#">
+          <Button variant="primary" href="https://app.landshare.io/rwa?af=0x95113c3838519e365444640acc7cc2fc0e77d5fe">
             Invest Now
           </Button>
           <button
