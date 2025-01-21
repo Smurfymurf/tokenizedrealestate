@@ -17,7 +17,7 @@ export default function Hero() {
               Join the future of property investment powered by Landshare.
             </p>
             <div className="flex items-center gap-6">
-              <Button variant="primary" href="#investment">
+              <Button variant="primary" href="https://app.landshare.io/rwa?af=0x95113c3838519e365444640acc7cc2fc0e77d5fe">
                 Start Investing Now
               </Button>
               <Logo />
